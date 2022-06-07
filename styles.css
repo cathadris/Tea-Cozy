@@ -6,6 +6,7 @@ body {
     opacity: 0.9;
     margin: 0 auto;
     padding: 0 auto;
+    width: 1280px;
 }
 
 .header-bar {
