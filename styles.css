@@ -56,12 +56,16 @@ margin: auto;
     margin-bottom: 10px;
 }
 
+
+
 .teas {
+    
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     text-align: center;
+    
    
 }
 
